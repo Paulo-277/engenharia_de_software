@@ -1,2 +1,2 @@
-# engenharia_de_software
-Curso de engenharia de software programação orientada a objetos
+# java_orientado_a_objetos
+Engenharia de software, matéria de programação orientada a objetos
